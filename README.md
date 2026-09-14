@@ -63,6 +63,7 @@ jsDelivr, e.g. `https://cdn.jsdelivr.net/gh/music-assistant/shared-icons@main/ic
 | `office`       | Office        | area     | work, study, desk, briefcase                        |
 | `hallway`      | Hallway       | area     | door, entrance, entry, corridor                     |
 | `garden`       | Garden        | area     | flower, plants, yard                                |
+| `garage`       | Garage        | area     | car, parking                                        |
 | `outdoor`      | Outdoor       | area     | tree, terrace, patio, outside                       |
 | `sun`          | Sun           | area     | patio, terrace, bright, weather                     |
 | `home`         | Home          | area     | house, whole home                                   |

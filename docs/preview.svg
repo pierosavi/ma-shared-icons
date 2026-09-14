@@ -6,7 +6,7 @@
   .v { font-size: 12px; text-anchor: end; }
 </style>
 <g color="#848d97">
-<text class="v" x="756" y="32">v0.3.0 · 37 icons</text>
+<text class="v" x="756" y="32">v0.4.0 · 38 icons</text>
 <text class="h" x="20" y="32">Device</text>
 <svg x="50" y="46" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
     <g transform="scale(0.75)">
@@ -208,11 +208,17 @@
 </svg>
 <text class="l" x="710" y="498">garden</text>
 <svg x="50" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M3 10 12 4l9 6v10H3z"/>
+  <path d="M7 20v-7h10v7"/>
+  <path d="M7 16h10"/>
+</svg>
+<text class="l" x="66" y="572">garage</text>
+<svg x="142" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <path d="m17 14 3 3.3a1 1 0 0 1-.7 1.7H4.7a1 1 0 0 1-.7-1.7L7 14h-.3a1 1 0 0 1-.7-1.7L9 9h-.2A1 1 0 0 1 8 7.3L12 3l4 4.3a1 1 0 0 1-.8 1.7H15l3 3.3a1 1 0 0 1-.7 1.7H17Z"/>
   <path d="M12 22v-3"/>
 </svg>
-<text class="l" x="66" y="572">outdoor</text>
-<svg x="142" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<text class="l" x="158" y="572">outdoor</text>
+<svg x="234" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <circle cx="12" cy="12" r="4"/>
   <path d="M12 2v2"/>
   <path d="M12 20v2"/>
@@ -223,13 +229,13 @@
   <path d="m6.34 17.66-1.41 1.41"/>
   <path d="m19.07 4.93-1.41 1.41"/>
 </svg>
-<text class="l" x="158" y="572">sun</text>
-<svg x="234" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<text class="l" x="250" y="572">sun</text>
+<svg x="326" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <path d="M15 21v-8a1 1 0 0 0-1-1h-4a1 1 0 0 0-1 1v8"/>
   <path d="M3 10a2 2 0 0 1 .709-1.528l7-6a2 2 0 0 1 2.582 0l7 6A2 2 0 0 1 21 10v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/>
 </svg>
-<text class="l" x="250" y="572">home</text>
-<svg x="326" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<text class="l" x="342" y="572">home</text>
+<svg x="418" y="524" width="32" height="32" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
   <path d="M12 10h.01"/>
   <path d="M12 14h.01"/>
   <path d="M12 6h.01"/>
@@ -242,6 +248,6 @@
   <path d="M9 22v-3a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v3"/>
   <rect x="4" y="2" width="16" height="20" rx="2"/>
 </svg>
-<text class="l" x="342" y="572">building</text>
+<text class="l" x="434" y="572">building</text>
 </g>
 </svg>

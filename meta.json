@@ -319,6 +319,14 @@
       },
       "keywords": ["flower", "plants", "yard"]
     },
+    "garage": {
+      "name": "Garage",
+      "category": "area",
+      "source": {
+        "set": "custom"
+      },
+      "keywords": ["car", "parking"]
+    },
     "outdoor": {
       "name": "Outdoor",
       "category": "area",
