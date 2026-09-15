@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TAG: ${{ github.event.release.tag_name }}
-      FRONTEND_OWNER: music-assistant
-      FRONTEND_REPO: frontend
+      FRONTEND_OWNER: pierosavi
+      FRONTEND_REPO: ma-frontend
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
 
